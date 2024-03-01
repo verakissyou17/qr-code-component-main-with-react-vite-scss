@@ -8,8 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution here 👉](https://your-solution-url.com)
-- Live Site URL: [Live Site here 👉](https://your-live-site-url.com)
+- Solution URL: [Solution here 👉](https://www.frontendmentor.io/solutions/qrcodecomponentmainwithreactvitescss-9acKseh2KZ)
+- Live Site URL: [Live Site here 👉](https://verakissyou17.github.io/qr-code-component-main-with-react-vite-scss/)
 
 ### Built with
 
